@@ -3,7 +3,7 @@
 ## 😎 Sobre mim!
 
 Olá 👋, me chamo Johan Henrique, tenho 18 anos e Estudo desenvolvimento a um bom tempo e desde então venho aplicando meus conhecimentos através do javascript.
-Atualmente estou apaixonado por React & React Native no front e MongoDb & MySql no BackEnd , e por isso cada vez mais estou aprofundando meus conhecimentos nessa tecnologia.
+Atualmente estou apaixonado por React & React Native no front e MongoDb & MySql no BackEnd e por isso cada vez mais estou aprofundando meus conhecimentos nessa tecnologia.
 
 Acredito que estar em constante aprendizado é a chave para alcançar o próximo nível. Com esse objetivo em mente, estou aberto para aprender novas habilidades e tecnologias.
 

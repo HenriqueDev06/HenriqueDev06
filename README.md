@@ -1,25 +1,17 @@
-*Perdi meu outro perfil do github, estou passando repositorios do outro para esse github novo!!!*
-
 # Olá, meu nome é Johan Henrique 👋
 
-## 😎 Sobre mim!
+😎 Minha stack é JavaScript, Typescript, ReactJS, NodeJS, MongoDB & Firebase.
 
-Olá 👋, me chamo Johan Henrique, tenho 18 anos e Estudo desenvolvimento a um bom tempo e desde então venho aplicando meus conhecimentos através do javascript.
-Atualmente estou apaixonado por React & React Native no front e MongoDb & MySql no BackEnd e por isso cada vez mais estou aprofundando meus conhecimentos nessa tecnologia.
-
-Acredito que estar em constante aprendizado é a chave para alcançar o próximo nível. Com esse objetivo em mente, estou aberto para aprender novas habilidades e tecnologias.
-
-### Objetivos 2022 e adiante
+### Objetivos 2023 e adiante
 
 + 🥅 Aprender a falar inglês.
 + 🥅 Aprender C# e .NET.
-+ 🥅 Aprender sobre testes automatizados.
 + ⚡ Conseguir meu primeiro trabalho em programação. 😀
 
 ### Habilidades e tecnologias que trabalho
 
 + 🌎 Português nativo.
-+ 💻 React, Node, TypeScript, CSS3, HTML5, SaaS, MySQL, Prisma, Mongoose, Git, entre outros.
++ 💻 React, Node, NextJs, Electron, React Native, TypeScript, CSS3, HTML5, SaaS, MySQL, Prisma, Mongoose, Git, Jest e entre outros.
 + 📰 Metodologia Scrum, BEM, entre outros.
 
 ![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=HenriqueDev06&show_icons=true&theme=dark)

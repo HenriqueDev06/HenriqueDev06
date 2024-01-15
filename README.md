@@ -2,7 +2,7 @@
 
 😎 Minha stack é JavaScript, Typescript, ReactJS, NodeJS, MongoDB & Firebase.
 
-### Objetivos 2023 e adiante
+### Objetivos 2024 e adiante
 
 + 🥅 Aprender a falar inglês.
 + 🥅 Aprender C# e .NET.
@@ -10,7 +10,6 @@
 
 ### Habilidades e tecnologias que trabalho
 
-+ 🌎 Português nativo.
 + 💻 React, Node, NextJs, Electron, React Native, TypeScript, CSS3, HTML5, SaaS, MySQL, Prisma, Mongoose, Git, Jest e entre outros.
 + 📰 Metodologia Scrum, BEM, entre outros.
 
